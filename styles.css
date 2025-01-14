@@ -75,3 +75,7 @@ body {
   a {
     text-decoration: none;
   }
+
+  .borde1 {
+    border: 18px discontinuo #0062ff;
+  }
